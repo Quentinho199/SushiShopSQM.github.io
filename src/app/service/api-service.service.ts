@@ -3,7 +3,6 @@ import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { StructureBox } from '../models/StructureBox';
 import { SushiAPI } from '../models/SushiAPI';
-import { Box } from '../models/Box';
 import { environment } from 'src/environments/environment';
 
 
